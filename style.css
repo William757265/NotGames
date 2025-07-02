@@ -1,0 +1,140 @@
+.my-button {
+    background-color: purple;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.my-button:hover {
+    background-color: darkviolet;
+}
+
+body {
+            background-color: #1e1e2f;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            flex-direction: column;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+            font-size: 2rem;
+        }
+
+        .play-btn {
+            padding: 12px 24px;
+            background-color: #5865F2;
+            color: #fff;
+            border: none;
+            border-radius: 40px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background-color 0.2s ease-in-out;
+            margin-left: 0px;
+             margin-top: -43px;
+             margin-right: 140px;
+        }
+
+        .login-btn:hover {
+            background-color: #8401ff;
+        }
+
+        .rules-btn {
+            padding: 12px 24px;
+            background-color: #5865F2;
+            color: #fff;
+            border: none;
+            border-radius: 40px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background-color 0.2s ease-in-out;
+            margin-left: 60px;
+             margin-top: 0px;
+             margin-right: 0px;
+        }
+
+        .toes-btn {
+            padding: 12px 24px;
+            background-color: #5865F2;
+            color: #fff;
+            border: none;
+            border-radius: 40px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background-color 0.2s ease-in-out;
+            margin-left: -25px;
+             margin-top: 30px;
+             margin-right: 0px;
+        }
+
+        .return-btn {
+            padding: 12px 24px;
+            background-color: #5865F2;
+            color: #fff;
+            border: none;
+            border-radius: 40px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background-color 0.2s ease-in-out;
+            margin-left: 800px;
+             margin-top: -290px;
+             margin-right: 0px;
+        }
+
+        .card {
+  background-color: #161b22;
+  padding: 20px;
+  border-radius: 12px;
+  width: 200px;
+}
+
+.card-button2048 {
+     margin-top: 50px;
+  margin-left: -450px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.card-buttonCB {
+     margin-top: -149px;
+  margin-left: 100px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.card-buttonHX {
+     margin-top: -161px;
+  margin-left: 700px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.card-buttonTR {
+     margin-top: 50px;
+  margin-left: 696px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.returnG-btn {
+            padding: 12px 24px;
+            background-color: #5865F2;
+            color: #fff;
+            border: none;
+            border-radius: 40px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background-color 0.2s ease-in-out;
+            margin-left: 100;
+             margin-top: -100px;
+             margin-right: 0px;
+        }
